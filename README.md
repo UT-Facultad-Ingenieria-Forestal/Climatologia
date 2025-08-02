@@ -102,9 +102,8 @@
 ## Unidad 4. Evapotranspiración y flujos de energía superficie-atmósfera
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/caab9e07-e760-4e8b-9dd4-e524a2a9f5d0"width="600">
+  <img src="https://github.com/user-attachments/assets/ada58f62-7117-4fed-a55a-ac7e69d06f6a"width="600">
 </p> 
-
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 4
