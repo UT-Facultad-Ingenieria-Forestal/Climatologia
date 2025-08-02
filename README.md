@@ -131,8 +131,9 @@
 ## Unidad 5. Variabilidad y cambio climático: observación, proyecciones e impactos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
+  <img src="https://github.com/user-attachments/assets/8a569cf7-052d-4b9c-bed7-44d47bbc1b94"width="600">
 </p> 
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 5
