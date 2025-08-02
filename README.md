@@ -4,6 +4,7 @@
   <img src="https://github.com/user-attachments/assets/a771d24b-b94f-4dfd-9a21-036f33bf5e9e"width="600">
 </p> 
 
+<img width="980" height="791" alt="image" src="https://github.com/user-attachments/assets/16cab670-08dc-43b3-be14-ad9fe256edac" />
 
 
 # Tabla de Contenido
