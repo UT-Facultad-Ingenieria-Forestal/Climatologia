@@ -8,7 +8,7 @@
 # Tabla de Contenido
 
 
-### [Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo](#unidad1)
+### [Unidad 1. Fundamentos físicos y dinámicos de la atmósfera: composición, balance radiativo y circulación general](#unidad1)
 ### [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad2)
 ### [Unidad 3. Datos Auxiliares](#unidad3)
 ### [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones Satelitales](#unidad4)
@@ -25,7 +25,7 @@
 
 
 <a id="unidad1"></a>
-## Unidad 1. Monitoreo de Deslizamientos y Evaluación del Riesgo
+## Unidad 1. Fundamentos físicos y dinámicos de la atmósfera: composición, balance radiativo y circulación general.
 
 [Landslide_final_59fps_prores.webm](https://github.com/user-attachments/assets/cd16ef9f-719d-4498-b5e7-7bad509bc1a1)
 
