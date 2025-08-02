@@ -156,6 +156,6 @@
 https://www.relive.com/es
 
 ## Geovisores usaoas en el curso
-https://www.google.es/intl/es/earth/index.html
+https://www.google.es/intl/es/earth/index.html;
 https://www.bing.com/maps?cp=4.432675%7E-75.213776&lvl=11.0
 https://www.ventusky.com/app
