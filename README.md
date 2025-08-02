@@ -152,11 +152,18 @@
 
 <a id="tp1"></a>
 ## Trabajo Práctico de Campo
+
+## Bases de Datos Meteorológicos
+https://www.ideam.gov.co/dhime
+http://dhime.ideam.gov.co/atencionciudadano/
+https://clima.fedearroz.com.co/historico-region/
+
+## Geovisores usaoas en el curso
+https://www.google.es/intl/es/earth/index.html<br>
+https://www.bing.com/maps?cp=4.432675%7E-75.213776&lvl=11.0<br>
+https://visualizador.ideam.gov.co/GEOVISOR_IDEAM/<br>
+https://www.ventusky.com/app
+
 ## APPs usadas en el curso
 https://www.relive.com/es
 
-## Geovisores usaoas en el curso
-https://www.google.es/intl/es/earth/index.html
-
-https://www.bing.com/maps?cp=4.432675%7E-75.213776&lvl=11.0
-https://www.ventusky.com/app
