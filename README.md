@@ -1,7 +1,7 @@
 # <h1 align="center"> CURSO DE CLIMATOLOGÍA
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/492755e0-da6b-499e-84e9-04749be08263"width="600">
+  <img src="https://github.com/user-attachments/assets/a771d24b-b94f-4dfd-9a21-036f33bf5e9e"width="600">
 </p> 
 
 
