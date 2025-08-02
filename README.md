@@ -44,7 +44,7 @@
 ## Unidad 2. Balance hídrico: flujos y almacenamientos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d4d84c7-840c-482b-a439-96fda1f0f65f"width="600">
+  <img src="https://github.com/user-attachments/assets/c67b0a06-8a41-4782-9942-9f9c96d80f47"width="600">
 </p> 
 
 
