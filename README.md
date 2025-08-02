@@ -72,8 +72,9 @@
 ## Unidad 3. Variables meteorológicas clave: precipitación, temperatura, viento humedad relativa y radiación.Procesos, medición y análisis espacio-temporal
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/829385ab-486c-4332-92d4-831d3077cad8"width="600">
+  <img src="https://github.com/user-attachments/assets/5c82e3cc-63e5-4c14-b5e0-fce07b990006"width="600">
 </p> 
+
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 3
