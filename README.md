@@ -22,7 +22,7 @@
 <a id="unidad1"></a>
 ## Unidad 1. Fundamentos físicos y dinámicos de la atmósfera: composición, balance radiativo y circulación general.
 
-[Landslide_final_59fps_prores.webm](https://github.com/user-attachments/assets/cd16ef9f-719d-4498-b5e7-7bad509bc1a1)
+[Landslide_final_59fps_prores.webm](https://github.com/user-attachments/assets/ccd15693-c21e-4346-85d6-2a27d64e13f7)
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
