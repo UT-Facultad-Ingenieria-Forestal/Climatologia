@@ -9,18 +9,13 @@
 
 
 ### [Unidad 1. Fundamentos físicos y dinámicos de la atmósfera: composición, balance radiativo y circulación general](#unidad1)
-### [Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra](#unidad2)
-### [Unidad 3. Datos Auxiliares](#unidad3)
-### [Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones Satelitales](#unidad4)
-### [Unidad 5. Susceptibilidad a Deslizamientos](#unidad5)
-### [Unidad 6. Modelos de Riesgo Dinámicos](#unidad6)
-### [Trabajo Práctico 1](#tp1)
+### [Unidad 2. Balance hídrico: flujos y almacenamientos](#unidad2)
+### [Unidad 3. Variables meteorológicas clave: precipitación, temperatura, viento humedad relativa y radiación.Procesos, medición y análisis espacio-temporal](#unidad3)
+### [Unidad 4. Evapotranspiración y flujos de energía superficie-atmósfera](#unidad4)
+### [Unidad 5. Variabilidad y cambio climático: observación, proyecciones e impactos](#unidad5)
+### [Trabajo Práctico de Campo](#tp)
 
-### [Unidad 7. Hidrología de Laderas](#unidad7)
-### [Trabajo Práctico 2 y 3](#tp2,3)
-### [Unidad 8. Hidrogeología de Laderas](#unidad8)
-### [Trabajo Práctico 4](#tp4)
-### [Unidad 9. Modelacion numerica del flujo de agua en Laderas](#unidad9)
+
 
 
 
@@ -45,7 +40,7 @@
 </a>
 
 <a id="unidad2"></a>
-## Unidad 2. Observaciones Satelitales de Deslizamientos de Tierra
+## Unidad 2. Balance hídrico: flujos y almacenamientos
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d4d84c7-840c-482b-a439-96fda1f0f65f"width="600">
@@ -73,7 +68,7 @@
 </a>
 
 <a id="unidad3"></a>
-## Unidad 3. Datos Auxiliares
+## Unidad 3. Variables meteorológicas clave: precipitación, temperatura, viento humedad relativa y radiación.Procesos, medición y análisis espacio-temporal
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/829385ab-486c-4332-92d4-831d3077cad8"width="600">
@@ -102,7 +97,7 @@
 </a>
 
 <a id="unidad4"></a>
-## Unidad 4. Mapeo de la Ocurrencia de Deslizamientos Usando Observaciones Satelitales
+## Unidad 4. Evapotranspiración y flujos de energía superficie-atmósfera
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/caab9e07-e760-4e8b-9dd4-e524a2a9f5d0"width="600">
@@ -132,7 +127,7 @@
 
 
 <a id="unidad5"></a>
-## Unidad 5. Susceptibilidad a Deslizamientos
+## Unidad 5. Variabilidad y cambio climático: observación, proyecciones e impactos
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31246e8a-be34-4ad6-a565-f24ecb84bdde"width="600">
@@ -153,5 +148,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
- 
-<a id="unidad6"></a>
+ ## tp. Trabajo Práctico de Campo
