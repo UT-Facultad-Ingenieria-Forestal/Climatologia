@@ -50,23 +50,6 @@
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 2
 
-### Video 1
-<p align="center">
- <a href="https://www.youtube.com/watch?v=vzfGMMEEz5w" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-### Video 2
-<p align="center">
- <a href="https://www.youtube.com/watch?v=Hgf3k981Cvw" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-### Video 3
-<p align="center">
- <a href="https://www.youtube.com/watch?v=g1vR0xd-UjM" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
 
 <a id="unidad3"></a>
 ## Unidad 3. Variables meteorológicas clave: precipitación, temperatura, viento humedad relativa y radiación.Procesos, medición y análisis espacio-temporal
@@ -79,25 +62,6 @@
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 3
 
-### Video 1
-<p align="center">
- <a href="https://www.youtube.com/watch?v=7D2n1K4Txgs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-### Video 2
-<p align="center">
- <a href="https://www.youtube.com/watch?v=Ir-3K0pjwOI" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-
-### Video 3
-<p align="center">
- <a href="https://www.youtube.com/watch?v=N-3zF10LbHg" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
 <a id="unidad4"></a>
 ## Unidad 4. Evapotranspiración y flujos de energía superficie-atmósfera
 
@@ -107,24 +71,6 @@
 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 4
-
-### Video 1
-<p align="center">
- <a href="https://www.youtube.com/watch?v=E7hgJ51ANVk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-### Video 2
-<p align="center">
- <a href="https://www.youtube.com/watch?v=QtvKTeK6bCQ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
-
-### Video 3
-<p align="center">
- <a href="https://www.youtube.com/watch?v=zMsCyEAOrh0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
 
 
 <a id="unidad5"></a>
@@ -138,17 +84,7 @@
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 5
 
-### Video 1
-<p align="center">
- <a href="https://www.youtube.com/watch?v=Mi0twUwfLbo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
 
-### Video 2
-<p align="center">
- <a href="https://www.youtube.com/watch?v=GrFqqXyaKHo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
-</a>
 
 <a id="tp1"></a>
 ## Trabajo Práctico de Campo
