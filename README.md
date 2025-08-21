@@ -114,6 +114,7 @@ https://www.google.es/intl/es/earth/index.html<br>
 https://www.bing.com/maps?cp=4.432675%7E-75.213776&lvl=11.0<br>
 https://visualizador.ideam.gov.co/GEOVISOR_IDEAM/<br>
 https://www.ventusky.com/
+https://livingatlas.arcgis.com/waterbalance/
 
 ## APPs implementados en el curso
 https://www.relive.com/es<br>
